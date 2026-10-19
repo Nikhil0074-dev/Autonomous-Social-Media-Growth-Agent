@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pillow
+streamlit
+pyperclip
+pytest
+httpx
